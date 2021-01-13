@@ -5,8 +5,8 @@ Mac手順で備考録として残しておく。
 ・VSCodeのインストール  
 
 Macのコンソールで実行。
-`git --version`
-version出力されていれば、MacOS最新化し、XCodeを開くことで解消される。  
+`git --version`  
+version出力されていなければ、MacOS最新化し、XCodeを開くことで解消される。  
 
 ## Gitインストール
 
